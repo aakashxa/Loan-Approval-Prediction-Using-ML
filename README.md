@@ -1,6 +1,6 @@
 # Loan-Approval-Prediction-Using-ML
 
-## Project Objectives
+## Project Objective
 
 The objective of this project is to build a model that will predict whether an individual who has applied for a loan would get the aprroval or not using Machine Learning Algorithms.
 
@@ -12,31 +12,19 @@ Dataset Source: https://www.kaggle.com/altruistdelhite04/loan-prediction-problem
 
 The following dataset features are same in both Train and Test datasets expect for the 'Loan_Status' column in the Test dataset which we will predict in this project.
 
-1.Loan_ID : Unique Loan ID
-
-2.Gender : Male/ Female
-
-3.Married Applicant : Married (Y/N)
-
-4.Dependents : Number of Dependents
-
-5.Education Applicant Education : (Graduate/Not Graduate)
-
-6.Self_Employed : Self Employed (Y/N)
-
-7.ApplicantIncome : Applicant Income
-
-8.CoapplicantIncome : Coapplicant Income
-
-9.LoanAmount : Loan Amount in Thousands
-
-10.Loan_Amount_Term : Term of Loan in Months
-
-11.Credit_History : Credit History meets guidelines
-
-12.Property_Area : Urban/Semi-Urban/Rural
-
-13.Loan_Status : Loan Approved (Y/N)
+1. Loan_ID : Unique Loan ID
+2. Gender : Male/ Female
+3. Married Applicant : Married (Y/N)
+4. Dependents : Number of Dependents
+5. Education Applicant Education : (Graduate/Not Graduate)
+6. Self_Employed : Self Employed (Y/N)
+7. ApplicantIncome : Applicant Income
+8. CoapplicantIncome : Coapplicant Income
+9. LoanAmount : Loan Amount in Thousands
+10. Loan_Amount_Term : Term of Loan in Months
+11. Credit_History : Credit History meets guidelines
+12. Property_Area : Urban/Semi-Urban/Rural
+13. Loan_Status : Loan Approved (Y/N)
 
 ## Approach/The steps involved in the project
 
@@ -57,7 +45,9 @@ The following dataset features are same in both Train and Test datasets expect f
 ## References
 
 Under the guidance of Anubhav Chaturvedi Sir.
+
 https://www.linkedin.com/in/anubhav-chaturvedi-a7465a72
 
 Project during the Online Internship with Dlithe
+
 www.dlithe.com
