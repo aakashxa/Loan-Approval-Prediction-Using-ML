@@ -26,7 +26,7 @@ The following dataset features are same in both Train and Test datasets expect f
 12. Property_Area : Urban/Semi-Urban/Rural
 13. Loan_Status : Loan Approved (Y/N)
 
-## Approach/The steps involved in the project
+## Steps Involved in the Project
 
 1. Importing the required libraries.
 2. Acquiring the dataset, visualizing it and cleaning the data set.
