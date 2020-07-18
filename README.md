@@ -31,14 +31,21 @@ The following dataset features are same in both Train and Test datasets expect f
 1. Importing the required libraries.
 2. Acquiring the dataset, visualizing it and cleaning the data set.
 3. Exploratory Data Analysis
+
   (i) Univariate Data Analysis and the resulting observations are noted.
+  
   (ii) Bivariate Data Analysis and the resulting observations are noted.
 4. Data Pre-processing
 5. Model Building
+
   (i) Logistic Regression
+  
   (ii) Support Vector Machine
+  
   (iii) Decision Tree
+  
   (iv) Random Forest
+  
   (v) K-Nearest Neighbors (KNN)
 6. Choosing a model with highest accuracy.
 
