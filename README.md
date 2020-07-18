@@ -58,6 +58,6 @@ Under the guidance of Anubhav Chaturvedi Sir.
 https://www.linkedin.com/in/anubhav-chaturvedi-a7465a72
 
 
-Assignment Project completed during an Online Internship with DLithe
+Assignment Project completed during an Online Internship with DLithe.
 
 www.dlithe.com
