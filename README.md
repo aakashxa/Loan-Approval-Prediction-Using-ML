@@ -1,6 +1,6 @@
 # Loan-Approval-Prediction-Using-ML
 
-# Project Objectives
+## Project Objectives
 
 The objective of this project is to build a model that will predict whether an individual who has applied for a loan would get the aprroval or not using Machine Learning Algorithms.
 It will be based upon the user's martial status, dependents, education level, employment status, etc.
