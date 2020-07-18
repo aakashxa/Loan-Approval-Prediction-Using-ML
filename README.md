@@ -45,9 +45,7 @@ The following dataset features are same in both Train and Test datasets expect f
 ## References
 
 Under the guidance of Anubhav Chaturvedi Sir.
-
 https://www.linkedin.com/in/anubhav-chaturvedi-a7465a72
 
-Project during the Online Internship with Dlithe
-
+Worked on the project during the Online Internship with Dlithe.
 www.dlithe.com
